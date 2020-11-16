@@ -88,7 +88,7 @@ How about yours??
 That's a monster of a command. Mine will look like this:
 
 ```sh
-docker run -d -p 1000:8080 -v /Users/Dylan/Desktop/Please-Contain-Yourself/4-Containerized_Development_With_Volumes/:/src/app --name psychic_container colorserver
+docker run -d -p 1000:8080 -v /Users/williamjantscher/Desktop/SDI/SDI_GIT/Please-Contain-Yourself/4-Containerized_Development_With_Volumes/:/src/app --name psychic_container colorserver
 ```
 
 **Again, yours will look different depending on the path you got from `pwd`**
